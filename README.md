@@ -1,3 +1,5 @@
+![Python, data science and machine learning course assignments](.github/assets/banner.gif)
+
 # Python, Data Science and Machine Learning Course Assignments
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
